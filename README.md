@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/AndrewRadev/xruntime.vim.png?branch=master)](http://travis-ci.org/AndrewRadev/xruntime.vim)
+
 This is a highly experimental plugin that provides a simple form of pre-processing for vimscript files. It's mostly a fun hack, and probably nothing you can use in practice.
 
 ## Usage
