@@ -1,7 +1,6 @@
 require 'spec_helper'
 
 describe "Inlining function arguments" do
-  let(:vim)             { VIM }
   let(:filename)        { 'test.vim' }
   let(:output_filename) { 'output.vim' }
 
